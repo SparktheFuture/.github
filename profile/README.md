@@ -8,7 +8,7 @@
 </div>
 
 
-<a href="https://sparkthefuture.in"><img src="https://img.shields.io/badge/Website-myselfayush.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://sparkthefuture.in"><img src="https://img.shields.io/badge/Website-sparkthefuture.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:sparkthefuture.in@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 
@@ -20,8 +20,8 @@
 
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=myselfayush010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&icon_color=00C7B7&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfayush010&theme=radical&hide_border=true&background=0D1117&ring=FF3366&fire=00C7B7&currStreakLabel=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sparkthefuture&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&icon_color=00C7B7&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sparkthefuture&theme=radical&hide_border=true&background=0D1117&ring=FF3366&fire=00C7B7&currStreakLabel=FFFFFF"/>
 </div>
 
 <!-- Matrix Rain Effect -->
@@ -33,14 +33,14 @@
 
 
 ### 🏆 Achievements Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=myselfayush010&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=FF3366" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sparkthefuture&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=FF3366" width="100%"/>
 
 <details>
 <summary>💫 More Insights</summary>
 <br>
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfayush010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkthefuture&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&text_color=FFFFFF)
   
 <img src="https://komarev.com/ghpvc/?username=sparkthefuture&color=FF3366&style=for-the-badge&label=Profile+Views"/>
 </div>
