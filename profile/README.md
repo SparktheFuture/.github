@@ -13,41 +13,6 @@
 
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+Me;System+Loading...;Initializing+Profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</h3>
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🛠️+Tech+Arsenal;Loading+Skills...;System+Ready&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</h3>
-
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/_Docker-00C7B7?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/_Podman-9F2B68?style=for-the-badge&logo=podman&logoColor=white)
-![VMware](https://img.shields.io/badge/_VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/_Git-FF4D4D?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/_VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Linux](https://img.shields.io/badge/_Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/_Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Android](https://img.shields.io/badge/_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Fedora](https://img.shields.io/badge/_Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/_Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-![Firefox](https://img.shields.io/badge/_Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
-![Chrome](https://img.shields.io/badge/_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Tor Browser](https://img.shields.io/badge/_Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
-
-</div>
-
-<h3>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=📊+Performance+Matrix;Analyzing+Data...;Results+Ready&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </h3>
 
