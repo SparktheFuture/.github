@@ -8,7 +8,3 @@
 </div>
 
 
-<a href="https://sparkthefuture.in"><img src="https://img.shields.io/badge/Website-sparkthefuture.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:sparkthefuture.in@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-
-
