@@ -6,4 +6,4 @@
 
 project 1 - https://bits.Sparkthefuture.in</br>
 
-project 2 - https://journal.sparkthefuture.in</br>
+project 2 - https://journal.astralelite.org/</br>
